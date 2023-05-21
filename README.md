@@ -6,7 +6,7 @@ A simple point cloud tiling.
 - laspy
 
 ### parameter
-- tile_x_size
-- tile_y_size
-- tile_z_size
 - inp (LAS1.2, PointFormat3)
+- tile_x_size (Numerical)
+- tile_y_size (Numerical)
+- tile_z_size (Numerical)
